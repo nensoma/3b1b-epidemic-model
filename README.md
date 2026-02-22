@@ -12,6 +12,6 @@ Basic implementation of 3Blue1Brown's SIR model as seen in ["Simulating an epide
 - Settings panel, graph depicting infection state breakdown with on-event markers
 ## Requirements
 - Python 3.11 or higher
-- [pygame](https://pypi.org/project/pygame/)
+- [pygame-ce](https://pypi.org/project/pygame-ce/)
 ## License
 - [MIT](LICENSE)
